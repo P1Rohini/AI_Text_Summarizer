@@ -1,12 +1,16 @@
-# React + Vite
+Project Overview
+What the project is:
+The AI Text Summarizer is a modern web application built using React.js and styled with Tailwind CSS. Its primary purpose is to provide a user-friendly tool for condensing large amounts of text.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+What problem it solves:
+This project addresses the problem of information overload by helping users quickly extract the key points from long articles, documents, or paragraphs. It saves time and enhances productivity by allowing for faster comprehension of written content.
 
-Currently, two official plugins are available:
+What its main features are:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Intuitive User Interface: A clean and responsive design for an effortless user experience.
 
-## Expanding the ESLint configuration
+AI-Powered Summaries: Integrates with the Google Gemini API to generate concise, high-quality summaries.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Real-time Processing: Provides a quick turnaround for summarization requests, displaying the results instantly.
+
+Modern Tech Stack: Built with popular, industry-standard technologies to demonstrate a strong foundation in modern web development.
